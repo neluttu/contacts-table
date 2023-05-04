@@ -928,6 +928,10 @@ video {
   transition-duration: 150ms;
 }
 
+.duration-100 {
+  transition-duration: 100ms;
+}
+
 .duration-200 {
   transition-duration: 200ms;
 }
@@ -942,7 +946,6 @@ video {
 }
 
 .entry:hover svg {
-  transition: all .2s ease;
   display: block;
 }
 

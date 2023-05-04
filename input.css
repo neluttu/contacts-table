@@ -10,7 +10,6 @@
     }
 
     .entry:hover svg {
-        transition: all .2s ease;
         display: block;
     }
 
